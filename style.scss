@@ -1,5 +1,15 @@
 $primaryColor: #eeffcc;
 
+$firstValue: 62.5%;
+
+$firstValue: 24px !default;
+
 body {
+	font-size: $firstValue;
+	$primaryColor: #ccc !global;
 	background: $primaryColor;
+}
+
+p {
+	color: $primaryColor;
 }
