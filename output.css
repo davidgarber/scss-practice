@@ -1,8 +1,10 @@
-body {
-  font-size: 62.5%;
-  background: #ccc; }
+.container {
+  width: 100%; }
 
-p {
-  color: #ccc; }
+.col-4 {
+  width: 25%; }
+
+body {
+  background: #ccc; }
 
 /*# sourceMappingURL=output.css.map */
